@@ -1,3 +1,5 @@
+//sandr's werk
+
 <?php 
 
 function priem($num){
